@@ -1,0 +1,31 @@
+1. ip:10.66.96.131 user:DPNK hostname:OB-DPNK domain:WORKGROUP mac:00:E0:42:39:02:94
+2. ip:10.66.96.208 user:User hostname:WORKSTATION domain:? mac:5A:4E:58:12:42:9D (17:30 -)(11:30 -)
+
+4. ip:10.66.96.39 user:АДМИНИСТРАТОР hostname:ГЫУК-ПК domain:Гыук-ПК mac:BC:5F:F4:B7:D0:87 (17:30 -)
+5. ip:10.66.96.41 user:АДМИНИСТРАТОР hostname:WIN-904L87B6954 domain:WORKGROUP mac:b0:6e:bf:35:35:b6 (17:30 -)
+6. ip:10.66.96.42 user:Администратор hostname:SEMECHKOVA domain:Semechkova mac:00:13:8F:DD:38:15(17:30 -)
+7. ip:10.66.96.42 user:User31 hostname: TBIL domain:TbIL mac:64:51:06:39:21:A7
+	HTTP : 10.66.96.250:8080 -> USER: pro  PASS: 12345678  INFO: Proxy Authentication
+8. ip:10.66.96.50 user:ZAM-TYL? hostname:ZAM-TYL domain: WORKGROUP mac:00:14:D1:16:20:94
+	proxy-auth:pro/12345678 mac:00:14:D1:16:20:94 (11:30 -)
+9. ip:10.66.96.51 user:user hostname:DESKTOP-S0LQFRL domain:WORKGROUP mac:94:C6:91:53:3A:A1 (17:30 -)
+10. ip:10.66.96.52 user:фыва(DK20) hostname:COMPUTER-A55F75 domain:WORKGROUP mac:78:24:AF:9C:F1:94
+11. ip:10.66.96.53 user:Администратор hostname:WIN-GC0DB5E9L5P domain:WORKGROUP mac:90:2B:34:00:23:FE(17:30 -)
+12. ip:10.66.96.55 user:Администратор hostname:KADTYKB1 domain:KadtyKB1 mac:2C:4D:54:68:C8:34
+13. ip:10.66.96.60 user:111 hostname:DESKTOP-VLVOJO7 domain:WORKGROUP mac:F8:CC:6E:00:5D:F3
+14. ip:10.66.96.63 user:Администратор hostname:BUH08 domain:Buh08 mac:54:04:A6:6F:99:7F(17:30 -)
+15. ip:10.66.96.156 user:User hostname:DESKTOP-EN5DICJ domain:WORKGROUP mac:D4:5D:64:26:3F:2C
+16. ip:10.66.96.163 user:безопасность hostname:BEZOPASNOST domain:WORKGROUP mac:C0:3F:D5:7D:9B:81
+17. ip:10.66.96.200 user:Администратор hostname:SERVERE5 domain:WORKGROUP mac:00:25:90:7A:18:1A
+18. ip:10.66.96.203 user:Администратор hostname:RASCHET domain:raschet mac:90:2B:34:BB:2D:4D(17:30 -)
+19. ip:10.66.96.205 user:Администратор hostname:OKS_23KB domain:Oks_23kb mac:78:24:AF:9E:2C:5C
+20. ip:10.66.96.206 user:Администратор hostname:GLAVBUH domain:GlavBUH mac:6C:F0:49:CD:E9:1C
+21. ip:10.66.96.210 user:Администратор hostname:WIN-P25FD749TII domain:WORKGROUP mac:90:2B:34:00:23:44
+22. ip:10.66.96.212 user:Администратор hostname:23_KB_1 domain:WORKGROUP mac:78:24:AF:9C:F1:86
+23. ip:10.66.96.213 user:Администратор hostname:COMP-24KB domain:WORKGROUP mac:BC:5F:F4:B8:10:44
+24. ip:10.66.96.217 user:??? hostname:GOTITB domain:1 mac:F4:6D:04:3D:06:C0(17:30 -)
+25. ip:10.66.96.221 user:User hostname:PROIZV-PC domain:WORKGROUP mac:00:26:18:CF:D9:28
+26. ip:10.66.96.222 user:22-kab hostname:PROIZV-PC2 domain:WORKGROUP mac:70:85:C2:D3:B4:95
+27. ip:10.66.96.223 user:k3 hostname:K3PC domain:WORKGROUP mac:00:1E:8C:08:80:56(17:30 -)
+28. ip:10.66.96.225 user:User hostname:NEW_PROIZ domain:WORKGROUP mac:2C:F0:5D:8F:7B:2F
+
